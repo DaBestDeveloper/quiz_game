@@ -140,7 +140,7 @@ var GameBoard = function (_React$Component4) {
         answer: "Ubisoft"
       }, { // 2
         question: 'What ubisoft game is da best?',
-        options: ['Assassins creed', 'Far cry', 'SHUT UP AND TAKE MY MONEY(ALL UBI GAMES ARE DA BEST)', 'I like call of duty',5],
+        options: ['Assassins creed', 'Far cry', 'SHUT UP AND TAKE MY MONEY(ALL UBI GAMES ARE DA BEST)', 'I like call of duty'],
         answer: 'SHUT UP AND TAKE MY MONEY(ALL UBI GAMES ARE DA BEST)'
       }, { // 3
         question: 'What year was ubisoft made in?',
