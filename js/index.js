@@ -134,30 +134,30 @@ var GameBoard = function (_React$Component4) {
       correct: 0,
       incorrect: 0,
       activeGame: true,
-      questionsAnswer: [{ // 1
-        question: 'Who is Darth Vader?',
-        options: ["Jedi", "Sith", "Rebel", "Emperor"],
-        answer: "Sith"
+     questionsAnswer: [{ // 1
+        question: 'What is da best?', 
+        options: ["Ubisoft", "Activision", "Rockstar", "Bethesda"],
+        answer: "Ubisoft"
       }, { // 2
-        question: 'Who is Luke Skywalker’s dad?',
-        options: ['Boba Fett', 'Jango Fett', 'Anakin Skywalker', 'Emperor',5],
-        answer: 'Anakin Skywalker'
+        question: 'What ubisoft game is da best?',
+        options: ['Assassins creed', 'Far cry', 'SHUT UP AND TAKE MY MONEY(ALL UBI GAMES ARE DA BEST)', 'I like call of duty',5],
+        answer: 'SHUT UP AND TAKE MY MONEY(ALL UBI GAMES ARE DA BEST)'
       }, { // 3
-        question: 'Who kills Jabba The Hutt?',
-        options: ['Luke Skywalker', 'Princess Leia', 'Han Solo', 'Darth Vader'],
-        answer: 'Princess Leia'
+        question: 'What year was ubisoft made in?',
+        options: ['1967', '1983', '1841', 'The person who made this does not know'],
+        answer: 'The person who made this does not know'
       }, { // 4
-        question: 'What planet do Wookiees come from?',
-        options: ['Tatooine', 'Kashyyk', 'Naboo', 'Endor'],
-        answer: 'Kashyyk'
+        question: 'What is better?',
+        options: ['NINTENDO SWITCH', 'PS4', 'XBOX X', 'COMPUTER'],
+        answer: 'PS4'
       }, { // 5
-        question: 'Darth Vader cut off hand of:',
-        options: ['Count Dooku', 'Mace Windu', 'Luke Skywalker', 'All of them'],
-        answer: 'All of them'
+        question: 'WHO SPAWNKILLS BEST(FOR RAINBOW SIX SIEGE FANS)',
+        options: ['JAGGER', 'BANDIT', 'ELA', 'TACHANKA'],
+        answer: 'JAGGER'
       }, { // 6
-        question: 'Who is the first person to say “May the Force be with you” in A New Hope',
-        options: ['Master Yoda', 'Luke Skywalker', 'Princess Leia', 'General Dodonna'],
-        answer: 'General Dodonna'
+        question: 'IS JAGGER TOXIC',
+        options: ['YUP', 'TOXIC AS FUCK', 'NO', 'I DON PLAY RAINBOW SIX SIEGE'],
+        answer: 'TOXIC AS FUCK'
       }]
     };
     return _this4;
